@@ -20,9 +20,9 @@ var customMapFormat = {
                     mapString = mapString.concat("\t\t\tspawnable_type: ")
                     mapString = mapString.concat(mapObject.resolvedProperty("enemy_type"));
                     mapString = mapString.concat(",\n\t\t\tposition: (");
-                    mapString = mapString.concat(mapObject.x);
+                    mapString = mapString.concat(mapObject.x - 640);
                     mapString = mapString.concat(", ");
-                    mapString = mapString.concat(mapObject.y);
+                    mapString = mapString.concat(mapObject.y - 400);
                     mapString = mapString.concat("), \n\t\t),\n");
                 }
                 mapString = mapString.concat("\n\t],\n");
