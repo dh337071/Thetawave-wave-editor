@@ -1,0 +1,32 @@
+(
+	formation_spawnables: [ 
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (-256, 16), 
+		),
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (96, -16), 
+		),
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (288, -48), 
+		),
+
+	],
+(
+	formation_spawnables: [ 
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (-288, -176), 
+		),
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (0, -176), 
+		),
+		( 
+ 			spawnable_type: Mob(Enemy(Pawn)),
+			position: (224, -176), 
+		),
+
+	],
