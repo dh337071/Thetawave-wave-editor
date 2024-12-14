@@ -11,5 +11,6 @@
   <li>Download script.  The script allows the tiled user to write a specific file type that stores the enemy waves</li>
   <li>To save the waves using tiled, ->File -> Export as... </li>
   <li>Save as the file type Thetawave wave file (*.ron)</li>
+  <li>Object test.ron is a sample output file.</li>
 </ol> 
 
