@@ -2,7 +2,7 @@
 
 <ol>
   <li>Download tiled https://www.mapeditor.org/</li>
-  <li>Download sprite sheet. TODO how to store?</li>
+  <li>Download sprite sheet.</li>
   <li>Make new project in Tiled</li>
   <li>load spritesheet into tiled (substeps?) </li>
   <li>load game background into tiled</li>
